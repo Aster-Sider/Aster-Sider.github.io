@@ -1,0 +1,125 @@
+a, p {
+    color: #fff;
+  }
+
+.p {
+    color: black;
+}
+
+.navbar-expand-lg {
+    color: #fff;
+}
+
+.navbar a {
+    color: #fff;
+}
+
+.navbar-nav a { 
+    color: white; 
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.navbar {
+    margin-top:  100px;
+}
+
+.navbar-brand {
+    margin-left: 100px;
+}
+
+.collapse {
+    margin-left: 700px;
+}
+
+.box {
+    margin: 200px 0 0 100px;
+    width: 700px;
+    height: 300px;
+    /* border: 1px inset black; */
+}
+
+.fs-5 {
+    margin-bottom: 100px;
+}
+
+.size {
+    font-size: 150px;
+    /* size: 500px; */
+    
+}
+
+.p-5 {
+    margin: 50px 0px 0 10px;
+    
+}
+
+
+
+.cont {
+    /* width: 1440px;
+    height:  544px; */
+    border: 2px inset black;
+    padding: 20px;
+    position: static;
+    margin: 120px 50px 0 10px;
+    
+}
+
+@media screen and (max-width: 1200px) {
+    .box {
+    margin: 10px 0 0 10px;
+    width: 400px;
+    height: 300px;
+    }
+
+    
+    .navbar {
+        margin-top:  10px;
+    }
+
+    .fs-5 {
+        margin-bottom: 20px;
+    }
+
+    .hight{
+        margin: -100px 0 0 0;
+    }
+    
+    .hight_2{
+        margin: -200px 0 0 0;
+        
+    }
+    .pad {
+        padding: 0; 
+    }
+
+    .Graph_oll {
+        margin: 150px 0 0 10px;
+      }
+}
+
+.box a {
+    color: #fff;
+}
+
+.box a:hover {
+    color: black;
+}
+
+.image_bacgraund {
+    position: absolute;
+    top: 0;
+    left: 10px;    
+    z-index: -1;
+}
+
+a {
+    color: #fff;
+  }
+
+.text {
+    color: black;
+}
